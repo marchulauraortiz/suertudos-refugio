@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Laura</h1>
 <h3 align="center">A curious developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Suertudos](https://github.com/marchulauraortiz/suertudos-refugio.git)
+- 🔭 I’m currently working on [Refugio Suertudos](https://github.com/marchulauraortiz/suertudos-refugio.git)
 
 - 💬 Ask me about **Music**
 
